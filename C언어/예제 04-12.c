@@ -5,7 +5,7 @@ int main(void)
 	int a = 10, b = 20, res;
 
 	res = (a > b) ? a : b;
-	printf("Å« °ª : %d\n", res);
+	printf("í° ê°’ : %d\n", res);
 
 	return 0;
 }
