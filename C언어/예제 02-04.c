@@ -7,7 +7,7 @@ int main(void)
 	printf("%.1lf\n", 3.45);
 	printf("%.10lf\n", 3.4);
 
-	printf("%d°ú %dÀÇ ÇÕÀº %dÀÔ´Ï´Ù.\n", 10, 20, 10 + 20);
+	printf("%dê³¼ %dì˜ í•©ì€ %dì…ë‹ˆë‹¤.\n", 10, 20, 10 + 20);
 	printf("%.1lf-%.1lf = %.1lf\n", 3.4, 1.2, 3.4 - 1.2);
 
 	return 0;
