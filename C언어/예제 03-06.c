@@ -4,8 +4,8 @@ int main(void)
 {
 	char fruit[20] = "strawberry";
 
-	printf("µþ±â : %s\n", fruit);
-	printf("µþ±âÂ´ : %s %s\n", fruit, "jam");
+	printf("ë”¸ê¸° : %s\n", fruit);
+	printf("ë”¸ê¸°ì¨ˆ : %s %s\n", fruit, "jam");
 
 	return 0;
 }
