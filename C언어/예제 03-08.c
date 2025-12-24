@@ -9,7 +9,7 @@ int main(void)
 	income = 456;
 	tax = income * tax_rate;
 
-	printf("¼¼±İÀº : %.1lfÀÔ´Ï´Ù.\n", tax);
+	printf("ì„¸ê¸ˆì€ : %.1lfì…ë‹ˆë‹¤.\n", tax);
 
 	return 0;
 }
