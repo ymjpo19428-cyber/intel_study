@@ -5,8 +5,8 @@ int main(void)
 	float ft = 1.234567890123456789;
 	double db = 1.234567890123456789;
 
-	printf("floatÇü º¯¼öÀÇ °ª : %.20f\n", ft);
-	printf("doubleÇü º¯¼öÀÇ °ª : %.20lf\n", db);
+	printf("floatí˜• ë³€ìˆ˜ì˜ ê°’ : %.20f\n", ft);
+	printf("doubleí˜• ë³€ìˆ˜ì˜ ê°’ : %.20lf\n", db);
 
 	return 0;
 }
