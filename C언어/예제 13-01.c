@@ -7,7 +7,7 @@ int main(void)
 	auto int a = 0;
 
 	assign();
-	printf("main ÇÔ¼ö a : %d\n", a);
+	printf("main í•¨ìˆ˜ a : %d\n", a);
 
 	return 0;
 }
@@ -17,5 +17,5 @@ void assign(void)
 	int a;
 
 	a = 10;
-	printf("assign ÇÔ¼ö a : %d\n", a);
+	printf("assign í•¨ìˆ˜ a : %d\n", a);
 }
