@@ -7,7 +7,7 @@ int main(void)
 	int* resp;
 
 	resp = sum(10, 20);
-	printf("µÎ Á¤¼öÀÇ ÇÕ : %d\n", *resp);
+	printf("ë‘ ì •ìˆ˜ì˜ í•© : %d\n", *resp);
 
 	return 0;
 }
