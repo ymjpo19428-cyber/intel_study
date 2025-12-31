@@ -6,7 +6,7 @@ int main(void)
 	int num1, num2, result;
 	char sig;
 
-	printf("»çÄ¢¿¬»ê ÀÔ·Â(Á¤¼ö) : ");
+	printf("ì‚¬ì¹™ì—°ì‚° ìž…ë ¥(ì •ìˆ˜) : ");
 	scanf("%d%c%d", &num1, &sig, &num2);
 
 	if (sig == '+')
